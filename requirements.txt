@@ -1,0 +1,8 @@
+numpy
+pandas
+dash
+brotli
+dash-html-components
+dash-core-components
+plotly
+gunicorn
