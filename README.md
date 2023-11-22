@@ -9,7 +9,7 @@
 - [Software Dependencies](#software-dependencies)
 - [Directory Structure](#directory-structure)
 - [Design and Technology Review](#design-and-technology-review)
-- [Results](#results)
+- [Demos](#demos)
 - [Limitations](#limitations)
 - [References](#references)
 
@@ -76,7 +76,7 @@ The head of a typical dataset looks similar to the following:
 <img width="960" alt="Screenshot 2023-11-22 at 3 49 26 PM" src="https://github.com/lucaskolson/ICE_Detention_Data_Dashboard/assets/91341415/5c801478-8e4d-4bb4-b52e-4f0b4cabaf59">
 
 
-### Results
+### Demos
 
 Demos of the final dashboard and pip installed package are available in the videos below. Due to prohibitive costs, the dashboard and package are not actively maintained.
 
